@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import moment from "moment";
 import axios from "axios";
-// import { GOOGLE_API_KEY, CALENDAR_ID } from "../keys";
 
 export default class App extends Component {
   constructor(props) {
